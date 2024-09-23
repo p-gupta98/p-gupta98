@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Pihu
 
+### About Me
+- 🌱 I’m currently learning Java and Web Programming in my First Year at Dalhousie University!
+- 💻 My interests are Full Stack Development, Kickboxing and Pasta
+- 📭 Reach out to me on [LinkedIn](https://www.linkedin.com/in/pihugupta/)
+
+### Languages/Tool
+- Javascript, Java, HTML, CSS, React, Node, PostgreSQL, jQuery
 <!--
 **p-gupta98/p-gupta98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
